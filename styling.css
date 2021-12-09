@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .banner {
     height: 700px;
     max-height: 80vh;
