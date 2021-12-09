@@ -1,0 +1,17 @@
+.banner {
+    height: 700px;
+    max-height: 80vh;
+}
+
+.wrapper {
+    width: 100%;
+    padding: 1.8125rem 0 0;
+    box-sizing: inherit;
+}
+
+.content {
+    max-width: 93.75rem;
+    padding: 0 30px;
+    margin: 0 auto;
+    position: relative;
+}
